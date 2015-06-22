@@ -1,3 +1,16 @@
+---
+
+
+## [插件地址](http://langrenfengzi.github.io/mama2.html)
+补充说明：增加对[动漫之家](http://donghua.dmzj.com)的视频支持
+目前只支持优酷、土豆资源(部分），后续会继续补全
+tips:
++ 优酷优先使用
++ 如果有土豆资源，但不是第一个，请先点击切换土豆播放源
++ 推荐与Chrome插件[FlashControl](https://chrome.google.com/webstore/detail/mfidmkgnfgnkihnjeklbekckimkipmoe)配合使用效果更好哟
+
+---
+
 #妈妈再也不用担心我的macbook发热了计划2
 
 > 妈妈计划用于解决在看视频网站时macbook发热严重的问题。使用video来替换原来的flash播放器。
