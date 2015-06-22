@@ -3,6 +3,7 @@ module.exports = [
 	require('./seeker_youku'),
 	require('./seeker_tudou'),
     require('./seeker_iqiyi'),
+    require('./seeker_dmzj'),
     require('./seeker_sohu')
 	// ,require('./seeker_example')
 ]
