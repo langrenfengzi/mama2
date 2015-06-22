@@ -1,7 +1,4 @@
----
-
-
-## [插件地址](http://langrenfengzi.github.io/mama2.html)
+##[插件地址](http://langrenfengzi.github.io/mama2.html)
 补充说明：增加对[动漫之家](http://donghua.dmzj.com)的视频支持
 目前只支持优酷、土豆资源(部分），后续会继续补全
 tips:
