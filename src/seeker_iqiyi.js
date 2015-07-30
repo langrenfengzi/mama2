@@ -39,6 +39,8 @@ exports.getVideos = function (url, callback) {
     httpProxy(location.href, 'get', {}, function(rs) {
         var m = rs.match(/<script[^>]*>(eval.*;)(?=<\/script>)<\/script>/)
         window.__qlt = window.__qlt || {MAMA2PlaceHolder: true}
+        window.QP = window.QP || {}
+        window.QP._ready = function (e) {if(this._isReady){e&&e()}else{e&&this._waits.push(e)}}
         eval(m[1])
         var param = weorjjigh(tvId)
         param.uid = uid
